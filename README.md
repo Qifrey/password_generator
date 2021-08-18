@@ -1,2 +1,2 @@
 # password_generator
-just a testing my skills
+Use this to make a new random password for you.
